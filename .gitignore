@@ -1,0 +1,12 @@
+.git
+target
+target/*
+.idea
+.idea/*
+idea
+idea/*
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
