@@ -3,7 +3,6 @@ package SOLID.openClosedPrinciple;
 import SOLID.openClosedPrinciple.enums.Color;
 import SOLID.openClosedPrinciple.enums.Size;
 import SOLID.openClosedPrinciple.filters.*;
-import openClosedPrinciple.filters.*;
 
 import java.util.List;
 
